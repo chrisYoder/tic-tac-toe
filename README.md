@@ -1,0 +1,1 @@
+https://scotch.io/tutorials/building-a-tic-tac-toe-game-with-vue-2-part-1
